@@ -1,0 +1,8 @@
+First of all a script name django-admin.py was run using the command - " XXXXX$ django-admin startproject mysite ." [[Dont miss the DOT}}
+XXX$ python manage.py migrate creates the database to be used 
+XXX$ python manage.py runserver starts our webserver
+XXX$ python manage.py startapp blog this created our project app. 
+XXX$ python manage.py makemigrations blog -- this updates the changes in the blog 
+XXX$ python manage.py migrate blog -- we now apply our methods and class to the database
+XXX$ python manage.py createsuperuser -- creat the ID of the person who has control overeverthing
+XXX$ git init -- initializes a repository in the folder 
